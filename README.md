@@ -1,4 +1,4 @@
-<h1>DS-Projects <h1>
+DS-Projects
 Data Science Projects
 Whether large or small, almost every organisation is looking for aspiring data scientists who will not only help them churn out meaningful insights from data but also help them stay ahead of the curve. 
 
